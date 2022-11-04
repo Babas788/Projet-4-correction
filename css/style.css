@@ -607,6 +607,22 @@ a[data-lightbox]:hover img {
     color: #FFF;
 }
 
+.slogan{
+    font-weight: 500;
+    font-size:large;
+}
+.citation {
+   font-weight: 400;
+}
+
+.citation_Max{
+  font-style: italic;
+  font-weight: 300;
+}
+.title2{
+    font-weight: 500;
+    font-size:large;
+}
 .next-lightbox,
 .prev-lightbox {
     font-size: 20px;
@@ -736,7 +752,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #0c0c0c!important;
 }
 
 .portfolio-thumb {
@@ -775,7 +791,7 @@ h4 {
 }
 
 .tc-white {
-    color: #FFFFFF!important;
+    color: #fefefe!important;
 }
 
 .btn-atomic-tangerine {
@@ -789,7 +805,7 @@ h4 {
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: #f9f7f7!important;
 }
 
 .ltc-white:hover {
